@@ -10,7 +10,11 @@
         This is a webpage that I am creating for my CSC 106 class.<br>
         I am excited to be learning the fundamentals of computer science and I hope<br>
         this will document my progress!
-      
+        <table>
+            <tr>
+                <td><a href="index.html"><img src="home.png"></a> </td>
+                <td><a href="javascripts.html."><img src="js.png"></a> </td>
+                <td><a href="about.html."><img src="about.png"</a> </td>
         
 
     </body>
